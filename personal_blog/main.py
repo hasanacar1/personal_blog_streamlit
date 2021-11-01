@@ -18,8 +18,8 @@ interactive = st.container()
 mapping = st.container()
 
 with header:
-    image = Image.open("https://github.com/hasanacar1/personal_blog_streamlit/blob/main/personal_blog/road_7.png")
-    st.image(image,use_column_width=True)
+    #image = Image.open("https://github.com/hasanacar1/personal_blog_streamlit/blob/main/personal_blog/road_7.png")
+    #st.image(image,use_column_width=True)
     st.title("")
 
 with c1:
